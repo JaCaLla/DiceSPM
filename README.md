@@ -11,7 +11,7 @@ DiceRoller is available via Swift Package Manager (SPM).
 1. In Xcode, go to **File > Swift Packages > Add Package Dependency**.
 2. Enter the repository URL:
    ```
-   https://github.com/yourusername/DiceRoller.git
+   https://github.com/JaCaLla/DiceSPM.git
    ```
 3. Follow the instructions to add the package to your project.
 
@@ -30,15 +30,15 @@ let package = Package(
 Import the module and use the `rollDice()` function to get a random dice roll:
 
 ```swift
-import DiceRoller
+import DiceSPM
 
-let result = DiceRoller.rollDice()
+let result = DiceSPM.roll()
 print("You rolled a \(result)!")
 ```
 
 ## API
 
-### `rollDice() -> Int`
+### `roll() -> String`
 Returns a random integer between 1 and 6, simulating a dice roll.
 
 ## License
