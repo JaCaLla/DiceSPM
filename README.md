@@ -1,4 +1,4 @@
-# DiceRoller
+# DiceSPM
 
 ![Swift Package Manager](https://img.shields.io/badge/SPM-compatible-brightgreen.svg)
 
