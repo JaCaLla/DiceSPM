@@ -2,7 +2,7 @@
 
 ![Swift Package Manager](https://img.shields.io/badge/SPM-compatible-brightgreen.svg)
 
-A simple Swift Package that provides a function to roll a dice and get a random value between 1 and 6.
+A simple Swift Package that provides a function to roll a dice and get a random value between 1 and 6. This is the base code used in following posts [Swift Package Manager Simplified](https://javios.eu/swift/swift-package-manager-simplified/) 
 
 ## Installation
 
