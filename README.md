@@ -20,7 +20,7 @@ Alternatively, you can add the following dependency to your `Package.swift`:
 ```swift
 let package = Package(
     dependencies: [
-        .package(url: "https://github.com/yourusername/DiceRoller.git", from: "1.0.0")
+        .package(url: "https://github.com/JaCaLla/DiceSPM", from: "1.0.0")
     ]
 )
 ```
